@@ -17,7 +17,7 @@ This is a simple **Login Page** built using **HTML** and **CSS**. The project de
 
 ## Preview
 
-![Login Page Screenshot](path_to_screenshot.png)
+<img width="1440" alt="Screenshot 2024-09-05 at 13 20 17" src="https://github.com/user-attachments/assets/2a49345f-ec5d-410a-a6ae-33497420c04d">
 
 ## Live Demo
 
