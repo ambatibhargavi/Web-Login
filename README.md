@@ -26,5 +26,5 @@ Check out the live version of the login page: [Live Demo URL]
 ## How to Use
 
 1. Clone the repository:
-   ```bash
+   ```bash 
    git clone https://github.com/ambatibhargavi/Web-Login
